@@ -1,0 +1,64 @@
+body
+{
+
+font-family: "Jersey 10 Charted", sans-serif ;
+background-color: rgb(37, 184, 213);
+
+}
+
+.header_div
+{
+
+background: cornsilk;
+color: blueviolet;
+font-size: 50px;
+}
+
+.header_div p
+{
+
+font-family: "Playfair Display", serif;
+color: rgb(160, 95, 160);
+letter-spacing: 2px;
+font-size:12px ;
+font-weight: bold;
+
+
+
+}
+
+.main_div button
+{
+
+font-family:"Bebas Neue", sans-serif ;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+
+
+}
+
+.copy_right_footer
+{
+position: fixed;
+color: darkmagenta;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: bisque;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(red 151 , green 149 , blue 149 );
+
+
+
+
+}
+
+.main_div h3, h4
+{
+
+color: rgb(53, 27, 202);
+
+}
